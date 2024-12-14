@@ -42,14 +42,14 @@ Here is an overview of the project with some visual aids:
 <table>
   <tr>
     <td align="center">
-      <img src="" alt="Image 1 Description" width="300"/>
+      <img src="https://drive.google.com/uc?export=view&id=1LZ7Ko9nzSwzBKfLhvqVM8sWi7Tmhklj8" alt="Image 1 Description" width="700" height="400"/>
       <br>
-      <em>Image 1: Description</em>
+      <em>Image 1: Result without knn</em>
     </td>
     <td align="center">
-      <img src="" alt="Image 2 Description" width="300"/>
+      <img src="https://drive.google.com/uc?export=view&id=1UJ8DjybBuhyl3267NG3vFr6vlTvJ8klm" alt="Image 2 Description" width="700" height="400"/>
       <br>
-      <em>Image 2: Description</em>
+      <em>Image 2: result with knn</em>
     </td>
   </tr>
 </table>
